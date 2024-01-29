@@ -38,6 +38,12 @@ body {
     margin-top: 0;
 }
 
+/* Quotes */
+
+.quotes .page-header {
+    margin-bottom: 25px;
+}
+
 .alert-container{}
 
 
